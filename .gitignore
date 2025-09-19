@@ -1,0 +1,9 @@
+*.pro.user
+build-*/
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+*.autosave
+*.log
